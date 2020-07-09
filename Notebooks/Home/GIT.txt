@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-09T15:04:49+03:00
+
+====== GIT ======
+Created Thursday 09 July 2020
+
+**Creating a GiT Repository**
+git init
+git add .
+git commit -m ”Update”
+git remote add origin https://github.com/transdeco-git/Transdeco
+git push origin master
+git remote -v
+git pull origin master
+
+**Committing and Pushing to a GiT Repository**
+git add .
+git commit -m ”Update”

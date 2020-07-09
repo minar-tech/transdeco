@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-09T15:05:17+03:00
+
+====== Templates ======
+Created Thursday 09 July 2020
+
