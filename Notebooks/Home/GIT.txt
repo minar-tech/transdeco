@@ -17,7 +17,7 @@ git pull origin master
 **Committing and Pushing to a Remote Git Repository**
 git add .					# stage
 git commit -m ”Update”	# commit
-git push origin mastergit	# push 
+git push origin master		# push 
 
 **Updating a Local Git Repository**
 git pull origin master
