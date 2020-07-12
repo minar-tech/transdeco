@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-13T00:33:53+03:00
+
+====== Git Bash ======
+Created Monday 13 July 2020
+
+1. Avaa Git Bash
+2. Anna komento [[./tuo.sh]]	# Jos haluat päivittää Zimin tai dokumentit
+3. Anna komento [[./vie.sh]]	# Jos haluat päivittää verkkosivut
